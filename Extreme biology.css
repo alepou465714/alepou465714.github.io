@@ -1,0 +1,25 @@
+.top-center {
+  text-align: center;
+  padding-top: 20px;
+}
+a:link,a:visited{
+    text-align: center;
+    justify-content: center;
+    background-color: blueviolet;
+    padding: 15px 25px;
+    color: bisque; 
+    display: inline-block;
+    border-radius: 18px;   
+}
+a:hover,a:active{
+    text-align: center;
+    background-color: rgb(54, 203, 214);
+    display: inline-block;
+}
+body{
+    margin: 0;
+    background-image: url(panda-climbing.webp),url(gettyimages-1339204507_custom-e1d6b74722d460155e16062526940ecd5a3ddd2e.jpg),url(λήψη.jpg);
+    background-position: top left,top right,top center;
+    background-size: 33.333334% 50%;
+    background-repeat: no-repeat;
+}
